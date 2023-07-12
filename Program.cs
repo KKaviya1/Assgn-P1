@@ -12,7 +12,7 @@ namespace Assignment_1
         {
 
             // Convert string to integer using TryParse
-            string intStr = "Kaviya";
+            string intStr = "Viya";
             int convertedInt;
             if (int.TryParse(intStr, out convertedInt))
             {
@@ -20,7 +20,7 @@ namespace Assignment_1
             }
             else
             {
-                Console.WriteLine("Error!!!----Pls give correct one.");
+                Console.WriteLine("Error occured!");
             }
 
             // Convert string to double using Convert
@@ -32,7 +32,7 @@ namespace Assignment_1
             }
             catch (FormatException)
             {
-                Console.WriteLine("Error!!!----Pls give correct one.");
+                Console.WriteLine("Error occured!");
             }
             catch (OverflowException)
             {
@@ -48,7 +48,7 @@ namespace Assignment_1
             }
             catch (FormatException)
             {
-                Console.WriteLine("Error!!!-----Pls give correct one.");
+                Console.WriteLine("Error ocured!");
             }
             catch (OverflowException)
             {
