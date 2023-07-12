@@ -1,0 +1,8 @@
+F:\day - 3\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.AssemblyReference.cache
+F:\day - 3\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.SuggestedBindingRedirects.cache
+F:\day - 3\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+F:\day - 3\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+F:\day - 3\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+F:\day - 3\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+F:\day - 3\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+F:\day - 3\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
